@@ -6,4 +6,4 @@ Contact
   * [cammerer@inue.uni-stuttgart.de](mailto:cammerer@inue.uni-stuttgart.de)  
   * [doerner@inue.uni-stuttgart.de](mailto:doerner@inue.uni-stuttgart.de)  
 
-This code is provided as supplementary material to the lecture course [Deep Learning Applications in Communications](http://www.inue.uni-stuttgart.de/lehre/vorlesung/DLACOM/Deep-Learning-Applications-for-Communications) at University of Stuttgart. It is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite it appropriately. 
+This code is provided as supplementary material to the lecture course [Deep Learning Applications in Communications](https://www.inue.uni-stuttgart.de/teaching/dlacom/) at University of Stuttgart. It is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite it appropriately. 
